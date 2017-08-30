@@ -10,3 +10,7 @@ Sorting options include filtering by video length, video file size, and the vide
 
 After the parsing is complete, the videos are displayed in a window using the PyGame library https://www.pygame.org.
 This library is used to handle all mouse/keyboard inputs as well as reading and displaying .png image files. 
+
+PyGame was found to be insufficient to complete my end goal for this project and so a newer version of this project was produced
+using C++ to display the UI and handle inputs, while leaving the original Python script and BeautifulSoup up to scraping and parsing the 
+website HTML.
