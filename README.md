@@ -13,4 +13,4 @@ This library is used to handle all mouse/keyboard inputs as well as reading and 
 
 PyGame was found to be insufficient to complete my end goal for this project and so a newer version of this project was produced
 using C++ to display the UI and handle inputs, while leaving the original Python script and BeautifulSoup up to scraping and parsing the 
-website HTML.
+website HTML. The new version is available here https://github.com/BreakingGood/VideoFilter-CppFrontEnd
